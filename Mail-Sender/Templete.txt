@@ -1,0 +1,14 @@
+Dear {Name},
+
+We are pleased to inform you that your account has been successfully updated.
+
+👤 Name: {Name}
+🆔 Customer_ID: {Customer_ID}
+📞 Phone_Number: {Phone_Number}
+🏦 icfc_code: {icfc_code}
+📧 email: {email}
+
+If this was not you or if you need any help, please contact our support team.
+
+Thank you,  
+Your Trusted Bank
